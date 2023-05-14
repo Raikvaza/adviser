@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'RUS ModernH-Bold';
+    src: url('./RUS\ ModernH-Bold.ttf') format('truetype');
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'RUS ModernH-EcoLight';
+    src: url('./RUS\ ModernH-EcoLight.ttf') format('truetype');
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'RUS ModernH-Light';
+    src: url('./RUS\ ModernH-Light.ttf') format('truetype');
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'RUS ModernH-Medium';
+    src: url('./RUS\ ModernH-Medium.ttf') format('truetype');
+    font-display: swap;
+  }
